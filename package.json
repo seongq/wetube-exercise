@@ -1,0 +1,19 @@
+{
+  "name": "wetube-exercise",
+  "version": "1.0.0",
+  "description": "cloning youtube",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seongq/wetube-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seongq/wetube-exercise/issues"
+  },
+  "homepage": "https://github.com/seongq/wetube-exercise#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
