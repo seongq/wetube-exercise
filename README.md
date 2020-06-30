@@ -9,8 +9,8 @@ cloning youtube
 <!-- 체크를 하려면 대괄호사이에 띄어쓰기 대신 x -->
 
 - [ ] Home
-- [ ] Join
-- [ ] Login
+- [x] Join
+- [x] Login
 - [x] Search
 - [ ] User Detail
 - [ ] Edit Profile
